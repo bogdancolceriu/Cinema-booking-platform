@@ -4,16 +4,6 @@
 
 Cinema Ticket Booking System is a web application built with React and Java Spring Boot 3.2, allowing users to browse, search, and book movie tickets seamlessly.
 
-## Table of Contents
-
-- [Cinema Ticket Booking System](#cinema-ticket-booking-system)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Technologies](#technologies)
-  - [Getting Started](#getting-started)
-  - [Steps to Setup the Spring Boot Backend app](#steps-to-setup-the-spring-boot-backend-app)
-  - [Steps to Setup the React Frontend app](#steps-to-setup-the-react-frontend-app)
-
 ## Features
 
 - **User registration**: For personalization and access to exclusive deals.
